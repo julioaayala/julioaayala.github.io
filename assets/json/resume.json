@@ -96,12 +96,7 @@
     {
       "name": "Evolutionary biology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Speciation",
-        "Hybridization",
-        "Population Genetics",
-        "Fitness landscapes"
-      ]
+      "keywords": ["Speciation", "Hybridization", "Population Genetics", "Fitness landscapes"]
     }
   ]
 }
